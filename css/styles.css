@@ -750,3 +750,56 @@ background-color: #2e2f42; */
 .backdrop.is-hidden .modal {
   transform: translate(-50%, -50%) scale(0);
 }
+
+.modal-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+.modal-form {
+}
+
+.input-text {
+  font-size: 12px;
+line-height: 1.17;
+letter-spacing: 0.04em;
+color: #8E8F99;
+margin-bottom: 4px;
+display: inline-block;
+}
+
+.input-wrap {
+}
+
+.modal-input {
+}
+
+.modal-icon {
+}
+
+.modal-field {
+}
+
+.modal-message {
+}
+
+.input-chek {
+}
+
+.check-text {
+}
+
+.check-icon {
+}
+
+.check-link {
+}
+
+.modal-button {
+}
